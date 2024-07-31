@@ -70,5 +70,5 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 For any questions or feedback, please contact:
 
 - **Name**: Audumbar
-- **Email**: [Your Email Address]
+- **Email**: tanangiaudumbar@gmail.com
 - **GitHub**: [Audumbar25](https://github.com/Audumbar25) 
